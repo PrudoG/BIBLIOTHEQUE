@@ -1,0 +1,12 @@
+.img-fluid{
+    height: 400px !important;
+}
+.image{
+    text-decoration: none;
+}
+
+.liens:hover{
+    
+    color: gray !important;
+   
+}
